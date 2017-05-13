@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/rootReducer.js"],"names":["state"],"mappings":";;;;;;kBAAe;AAAA,MAACA,KAAD,uEAAS,IAAT;AAAA,SAAkBA,KAAlB;AAAA,C","file":"rootReducer.js","sourceRoot":"/Users/velmyk/dev/projects/losparientes/website/front","sourcesContent":["export default (state = null) => state;\n"]}

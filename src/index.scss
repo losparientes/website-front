@@ -1,0 +1,21 @@
+@import './scss/mixin.scss';
+@import './scss/buttons.scss';
+@import './scss/inputs.scss';
+
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+#root {
+    height: 100vh;
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 200;
+}
+
+a {
+    text-decoration: none;
+}

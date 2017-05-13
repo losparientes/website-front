@@ -1,0 +1,36 @@
+.btn {
+    display: inline-block;
+    font: 14px/19px Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+    line-height: 30px;
+    height: 32px;
+    padding: 0 8px;
+    border: 1px solid #e0e7eb;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background: #fff;
+    color: #0072dd;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    user-select: none;
+
+    &_large {
+        font: 16px/22px;
+        height: 40px;
+        line-height: 38px;
+    }
+
+    &_small {
+        font: 12px/17px;
+        height: 24px;
+        line-height: 22px;
+    }
+
+    &_major {
+        background-color: #0072dd;
+        color: #fff;
+    }
+}
+

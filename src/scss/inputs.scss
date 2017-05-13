@@ -1,0 +1,22 @@
+.input {
+    height: 32px;
+    padding: 0 4px;
+    font: 14px/19px Helvetica Neue,Helvetica,Arial,sans-serif;
+    border: 1px solid;
+    border-color: #c9d4d9;
+    background-color: #fff;
+    border-radius: 4px;
+    box-sizing: border-box;
+    color: #000;
+    outline: none;
+
+    &_large {
+        font: 16px/22px;
+        height: 40px;
+    }
+
+    &_small {
+        font: 12px/17px;
+        height: 24px;
+    }
+}
